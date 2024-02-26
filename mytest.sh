@@ -1,11 +1,15 @@
 #!/bin/bash
 
-echo "  _   _     _     _____ "
-echo " | \ | |   (_)   |  __ \\"
-echo " |  \| |_   _    | |__) |"
-echo " | . \` | | | |   |  ___/"
-echo " | |\  | |_| |   | |    "
-echo " |_| \_|\__,_|   |_|    "
+#!/bin/bash
+
+echo "Enter a numner"
+read a
+
+echo "Enter a numner"
+read b
+
+var=$((a+b))
+echo $var
 
 
 
