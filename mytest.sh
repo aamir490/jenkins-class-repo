@@ -1,19 +1,7 @@
 #!/bin/bash
 
-#!/bin/bash
 
-echo "Enter a numner"
-read a
-
-echo "Enter a numner"
-read b
-
-var=$((a+b))
-echo $var
-
-
-
-echo  "sec changes this is test data"
+echo  "AAMMIIRR"
 date
 cal
 echo "bye"
